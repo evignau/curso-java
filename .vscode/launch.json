@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Enrique",
+            "request": "launch",
+            "mainClass": "Enrique",
+            "projectName": "Curso_fff848c"
+        }
+    ]
+}
