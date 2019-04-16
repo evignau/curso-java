@@ -1,10 +1,15 @@
+import java.util.Scanner;
 public class TareaUno{
    public static void main(String[] args) {
        
    
     String palabra="palabra", palabraDos="palabraDos";
-    
-    int parametro=7;
+    int parametro;
+
+    Scanner inPut=new Scanner(System.in);
+    System.out.print("ingrese el numero: ");
+    parametro=inPut.nextInt();
+
 
 
     switch(parametro){
